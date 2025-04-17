@@ -1,20 +1,16 @@
 <linker>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="AnswerPanel" preserve="all" />
     <type fullname="CoinHolder" preserve="all" />
     <type fullname="Coins" preserve="all" />
     <type fullname="GateTitle" preserve="all" />
     <type fullname="ObjectPool" preserve="all" />
     <type fullname="PlayerController" preserve="all" />
-    <type fullname="PuzzleGate" preserve="all" />
     <type fullname="PuzzleManger" preserve="all" />
-    <type fullname="QuestionsManager" preserve="all" />
     <type fullname="Road" preserve="all" />
     <type fullname="RoadsManger" preserve="all" />
     <type fullname="SetRevive" preserve="all" />
     <type fullname="SwapManger" preserve="all" />
     <type fullname="ObjectToPool" preserve="nothing" serialized="true" />
-    <type fullname="Question" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
@@ -59,7 +55,6 @@
   <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.AnimationClip" preserve="all" />
     <type fullname="UnityEngine.Animator" preserve="all" />
-    <type fullname="UnityEngine.Avatar" preserve="all" />
     <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
@@ -79,6 +74,7 @@
     <type fullname="UnityEngine.Mesh" preserve="all" />
     <type fullname="UnityEngine.MeshFilter" preserve="all" />
     <type fullname="UnityEngine.MeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.MonoBehaviour" preserve="all" />
     <type fullname="UnityEngine.Object" preserve="all" />
     <type fullname="UnityEngine.RectTransform" preserve="all" />
     <type fullname="UnityEngine.RenderSettings" preserve="all" />
